@@ -12,6 +12,7 @@ A collection of useful resources for my cybersecurity journey. This repository c
 * **Python Cheat Sheets**
 * -> PyTorch - https://quickref.me/pytorch
 * SQL Cheat Sheets
+* -> SQL Tutorial - https://www.sqltutorial.org/sql-cheat-sheet/
 * Useful Code Snippets
 * NIST SP 800-30: Risk Assessment
 * NIST SP 800-37: Risk Management Framework (RMF)
