@@ -23,6 +23,10 @@ A collection of useful resources for my cybersecurity journey. This repository c
 * NIST AI Risk Management Framework 
 * MITRE ATT&CK Framework
 
+* Repos of note
+* https://github.com/njmulsqb/Awesome-Security-Repos
+
+
 **Potential Future Additions:**
 
 * **OWASP (Open Web Application Security Project) Resources:**
