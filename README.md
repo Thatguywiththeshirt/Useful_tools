@@ -8,9 +8,9 @@ A collection of useful resources for my cybersecurity journey. This repository c
 **Contents:**
 
 * **Regex Cheat Sheets**
-* *Regex Quick Reference https://quickref.me/regex.html
+* *Regex Quick Reference - https://quickref.me/regex.html
 * **Python Cheat Sheets**
-* * PyTorch - https://quickref.me/pytorch
+* -> PyTorch - https://quickref.me/pytorch
 * SQL Cheat Sheets
 * Useful Code Snippets
 * NIST SP 800-30: Risk Assessment
