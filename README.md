@@ -14,6 +14,8 @@ A collection of useful resources for my cybersecurity journey. This repository c
 * SQL Cheat Sheets
 * -> SQL Tutorial - https://www.sqltutorial.org/sql-cheat-sheet/
 * Useful Code Snippets
+*  **R Cheet Sheats**
+*  ->
 * NIST SP 800-30: Risk Assessment
 * NIST SP 800-37: Risk Management Framework (RMF)
 * NIST SP 800-39: Managing Information Security Risk
