@@ -10,6 +10,7 @@ A collection of useful resources for my cybersecurity journey. This repository c
 * **Regex Cheat Sheets**
 * *Regex Quick Reference - https://quickref.me/regex.html
 * **Python Cheat Sheets**
+* -> Python - https://quickref.me/python.html
 * -> PyTorch - https://quickref.me/pytorch
 * SQL Cheat Sheets
 * -> SQL Tutorial - https://www.sqltutorial.org/sql-cheat-sheet/
