@@ -17,7 +17,8 @@ A collection of useful resources for my cybersecurity journey. This repository c
 * Useful Code Snippets
 *  **R Cheet Sheats**
 *  ->
-* **NIST Standards**
+
+   **NIST Standards**
 *  ->  NIST SP 800-30: Risk Assessment
 *  ->  NIST SP 800-37: Risk Management Framework (RMF)
 *  ->  NIST SP 800-39: Managing Information Security Risk
@@ -27,8 +28,8 @@ A collection of useful resources for my cybersecurity journey. This repository c
 *  -> NIST Cybersecurity Risk Management (CRM) Framework
 *  -> NIST AI Risk Management Framework 
 
-* **Additional Frameworks**
+  **Additional Frameworks**
 * MITRE ATT&CK Framework -> https://attack.mitre.org/
 
-* **Repositories of note**
+  **Repositories of note**
 * https://github.com/njmulsqb/Awesome-Security-Repos
