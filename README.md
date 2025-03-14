@@ -7,18 +7,27 @@ A collection of useful resources for my cybersecurity journey. This repository c
 
 **Contents:**
 
-* **Regex Cheat Sheets**
+**Regex Cheat Sheets**
 * *Regex Quick Reference - https://quickref.me/regex.html
-* **Python Cheat Sheets**
-* -> Python - https://quickref.me/python.html
-* -> PyTorch - https://quickref.me/pytorch
-* **SQL Cheat Sheets**
-* -> SQL Tutorial - https://www.sqltutorial.org/sql-cheat-sheet/
-* Useful Code Snippets
-*  **R Cheet Sheats**
-*  ->
+<br>
+  <br>
+  
+**Python Cheat Sheets** 
+* -> Python - https://quickref.me/python.html  <br>
+* -> PyTorch - https://quickref.me/pytorch  <br>
+  <br>
 
-   **NIST Standards**
+**SQL Cheat Sheets**
+* -> SQL Tutorial - https://www.sqltutorial.org/sql-cheat-sheet/<br>
+  <br>
+
+**R Cheet Sheats**
+*  -> https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf
+*  -> https://www.datacamp.com/cheat-sheet/getting-started-r
+*  -> https://rmarkdown.rstudio.com/lesson-15.HTML  <br>
+  <br>
+  
+**NIST Standards**
 *  ->  NIST SP 800-30: Risk Assessment
 *  ->  NIST SP 800-37: Risk Management Framework (RMF)
 *  ->  NIST SP 800-39: Managing Information Security Risk
@@ -27,9 +36,13 @@ A collection of useful resources for my cybersecurity journey. This repository c
 *  ->  NIST SP 800-207: Zero Trust Architecture
 *  -> NIST Cybersecurity Risk Management (CRM) Framework
 *  -> NIST AI Risk Management Framework 
-
-  **Additional Frameworks**
+<br>
+  <br>
+  
+**Additional Frameworks**
 * MITRE ATT&CK Framework -> https://attack.mitre.org/
-
-  **Repositories of note**
+<br>
+  <br>
+  
+**Repositories of note**
 * https://github.com/njmulsqb/Awesome-Security-Repos
