@@ -3,7 +3,7 @@ Various Cheat sheets and resources
 
 # Cybersecurity Toolbox
 
-A collection of useful resources for my cybersecurity journey. This repository contains cheat sheets (Regex, Python, SQL), code snippets, and other helpful materials. This is a personal learning resource, continuously updated as I explore and learn.
+A collection of useful resources for cybersecurity. This repository contains cheat sheets (Regex, Python, SQL), code snippets, and other helpful materials. This is a personal learning resource, continuously updated as I explore and learn.
 
 **Contents:**
 
